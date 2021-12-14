@@ -16,7 +16,9 @@
     # Dependencies
     "depends": ["sale_management"],
     # Views
-    "data": ["views/sale_product_view.xml", "views/report_saleorder.xml"],
+    "data": ["views/sale_product_view.xml",
+           "views/report_saleorder.xml"
+           ],
     # Techical
     "installable": True,
     "auto_install": False,
